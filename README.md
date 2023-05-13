@@ -37,3 +37,8 @@ This is a basic authentication system built with Node.js, Express.js, and Passpo
 - Node.js
 - Express.js
 - Passport.js
+
+# Flowchart
+<a href="https://drive.google.com/drive/folders/16o_jSCE0Cg3efB5_OBCJXZNNYWk9UCYt">
+    <img src="flowchart.jpg" alt="flowchart" width="80" height="80">
+</a>
