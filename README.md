@@ -40,5 +40,5 @@ This is a basic authentication system built with Node.js, Express.js, and Passpo
 
 # Flowchart
 <a href="https://drive.google.com/drive/folders/16o_jSCE0Cg3efB5_OBCJXZNNYWk9UCYt">
-    <img src="flowchart.jpg" alt="flowchart" width="80" height="80">
+    <img src="AUthentication System.jpg" alt="flowchart" width="500" height="700">
 </a>
